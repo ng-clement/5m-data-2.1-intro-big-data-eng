@@ -14,6 +14,9 @@ Module 2 is about learning to build the *plumbing* — the infrastructure that m
 
 ---
 
+![Unit 2.1](./assets/unit-2-1-introduction-to-big-data-engineering.png)
+
+
 ## Meet FreshCart
 
 You've just been hired as a *Junior Data Engineer* at **FreshCart**, a mid-sized e-commerce grocery company in Singapore with around 200 employees. FreshCart sells fresh produce, household essentials and everyday consumer goods through its website and mobile app.
@@ -35,18 +38,13 @@ Over the next 10 lessons, that's exactly what you'll do.
 
 Every lesson in Module 2 adds a new layer to a modern data platform. By the end of the module, you'll have touched every major component of the system that a company like FreshCart would actually use.
 
-```
- Sources  →  Storage  →  Ingestion  →  Transformation  →  Serving
-(2.1–2.4)    (2.2)     (2.4, 2.6)    (2.5, 2.7, 2.8)   (2.5, 2.9, 2.10)
-```
+![module-2-overview](./assets/module-2-overiew.png)
 
 Think of this as the map. Each unit lights up a new section.
 
 Let's get started!
 
 ---
-
-![Unit 2.1](./assets/unit-2-1-introduction-to-big-data-engineering.png)
 
 ## Where are we?
 
