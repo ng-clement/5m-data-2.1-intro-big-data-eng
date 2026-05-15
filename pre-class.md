@@ -48,12 +48,12 @@ Let's get started!
 
 ![Unit 2.1](./assets/unit-2-1-introduction-to-big-data-engineering.png)
 
-### Where are we?
+## Where are we?
 
 It's your first day. Your manager walks you through the company's data landscape and asks a deceptively simple question: *"What kind of data do we have, and where does it live?"*
 
 FreshCart's transactional orders sit in a PostgreSQL database. Customer reviews are unstructured text. Real-time delivery tracking is semi-structured JSON from a logistics API. Product catalogue images are binary blobs. You realise that "data" is not one thing — and the tools you learned in Module 1 only handle part of the picture.
 
-### Why this matters
+## Why this matters
 
 Before you can build anything, you need a mental model of the data engineering landscape. This unit gives you the vocabulary and conceptual framework to distinguish between different types of data, different types of databases, and different processing paradigms. Without this, every subsequent technical decision will lack context.
